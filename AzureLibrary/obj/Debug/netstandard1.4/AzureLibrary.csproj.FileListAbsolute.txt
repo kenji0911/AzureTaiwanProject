@@ -1,0 +1,6 @@
+/Users/Linsanity/Documents/AzureSharing/AzureLibrary/bin/Debug/netstandard1.4/AzureLibrary.deps.json
+/Users/Linsanity/Documents/AzureSharing/AzureLibrary/bin/Debug/netstandard1.4/AzureLibrary.dll
+/Users/Linsanity/Documents/AzureSharing/AzureLibrary/bin/Debug/netstandard1.4/AzureLibrary.pdb
+/Users/Linsanity/Documents/AzureSharing/AzureLibrary/obj/Debug/netstandard1.4/AzureLibrary.AssemblyInfo.cs
+/Users/Linsanity/Documents/AzureSharing/AzureLibrary/obj/Debug/netstandard1.4/AzureLibrary.dll
+/Users/Linsanity/Documents/AzureSharing/AzureLibrary/obj/Debug/netstandard1.4/AzureLibrary.pdb

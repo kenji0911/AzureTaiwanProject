@@ -1,0 +1,13 @@
+/Users/Linsanity/Documents/AzureSharing/AzureTest/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Linsanity/Documents/AzureSharing/AzureTest/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/Linsanity/Documents/AzureSharing/AzureTest/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/Linsanity/Documents/AzureSharing/AzureTest/bin/Debug/netcoreapp1.1/AzureTest.deps.json
+/Users/Linsanity/Documents/AzureSharing/AzureTest/bin/Debug/netcoreapp1.1/AzureTest.runtimeconfig.json
+/Users/Linsanity/Documents/AzureSharing/AzureTest/bin/Debug/netcoreapp1.1/AzureTest.runtimeconfig.dev.json
+/Users/Linsanity/Documents/AzureSharing/AzureTest/bin/Debug/netcoreapp1.1/AzureTest.dll
+/Users/Linsanity/Documents/AzureSharing/AzureTest/bin/Debug/netcoreapp1.1/AzureTest.pdb
+/Users/Linsanity/Documents/AzureSharing/AzureTest/bin/Debug/netcoreapp1.1/AzureLibrary.dll
+/Users/Linsanity/Documents/AzureSharing/AzureTest/bin/Debug/netcoreapp1.1/AzureLibrary.pdb
+/Users/Linsanity/Documents/AzureSharing/AzureTest/obj/Debug/netcoreapp1.1/AzureTest.AssemblyInfo.cs
+/Users/Linsanity/Documents/AzureSharing/AzureTest/obj/Debug/netcoreapp1.1/AzureTest.dll
+/Users/Linsanity/Documents/AzureSharing/AzureTest/obj/Debug/netcoreapp1.1/AzureTest.pdb

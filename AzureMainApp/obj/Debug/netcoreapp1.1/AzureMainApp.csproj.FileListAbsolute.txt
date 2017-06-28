@@ -1,0 +1,10 @@
+/Users/Linsanity/Documents/AzureSharing/AzureMainApp/bin/Debug/netcoreapp1.1/AzureMainApp.deps.json
+/Users/Linsanity/Documents/AzureSharing/AzureMainApp/bin/Debug/netcoreapp1.1/AzureMainApp.runtimeconfig.json
+/Users/Linsanity/Documents/AzureSharing/AzureMainApp/bin/Debug/netcoreapp1.1/AzureMainApp.runtimeconfig.dev.json
+/Users/Linsanity/Documents/AzureSharing/AzureMainApp/bin/Debug/netcoreapp1.1/AzureMainApp.dll
+/Users/Linsanity/Documents/AzureSharing/AzureMainApp/bin/Debug/netcoreapp1.1/AzureMainApp.pdb
+/Users/Linsanity/Documents/AzureSharing/AzureMainApp/bin/Debug/netcoreapp1.1/AzureLibrary.dll
+/Users/Linsanity/Documents/AzureSharing/AzureMainApp/bin/Debug/netcoreapp1.1/AzureLibrary.pdb
+/Users/Linsanity/Documents/AzureSharing/AzureMainApp/obj/Debug/netcoreapp1.1/AzureMainApp.AssemblyInfo.cs
+/Users/Linsanity/Documents/AzureSharing/AzureMainApp/obj/Debug/netcoreapp1.1/AzureMainApp.dll
+/Users/Linsanity/Documents/AzureSharing/AzureMainApp/obj/Debug/netcoreapp1.1/AzureMainApp.pdb
