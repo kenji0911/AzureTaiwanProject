@@ -24,10 +24,15 @@ namespace AzureMainApp
             // Sample02 model_demo02 = new Sample02();
             // model_demo02.RunSample2();
 
-            DBTools db = new DBTools();
+            // ------ Entity Framework Code ------ 
+            // DBTools db = new DBTools();
+
+            // ------ Demo connection with DB ------ 
             // db.storeData();
             // db.getData();
-            db.DataTableSFToExcelFile("DB_To_Excel.xlsx");
+
+            // ------ DB export to Excel ------ 
+            // db.DataTableSFToExcelFile("DB_To_Excel.xlsx");
             WriteLine("Done");
         }
     }
